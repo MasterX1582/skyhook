@@ -16,67 +16,67 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 1.5.4\n"
 
-msgid "Passwords must match."
+msgid "Wachtwoorden dienen overeen te komen."
 msgstr ""
 
-msgid "A Blockchain wallet id is required."
+msgid "Een Blockchain wallet id is vereist."
 msgstr ""
 
-msgid "The main Blockchain password is required."
+msgid "Het hoofd Blockchain wachtwoord is verijst."
 msgstr ""
 
-msgid "Please choose a selection criteria."
+msgid "Kies a.u.b de selectie criteria."
 msgstr ""
 
-msgid "At least one pricing source is required."
+msgid "Tenminste 1 prijs brom is vereist."
 msgstr ""
 
-msgid "Unsaved changes, discard?"
+msgid "Onopgeslagen weizigingen, verwerp?"
 msgstr ""
 
-msgid "Do you need more time?"
+msgid "Hebt u meer tijd nodig?"
 msgstr ""
 
-msgid "More Time"
+msgid "Meer tijd"
 msgstr ""
 
-msgid "Cancel the transaction?"
+msgid "Anulleer de transactie?"
 msgstr ""
 
-msgid "Cancel:"
+msgid "Anulleer:"
 msgstr ""
 
-msgid "Cancel"
+msgid "Anulleer"
 msgstr ""
 
-msgid "Continue"
+msgid "Verder"
 msgstr ""
 
-msgid "Processing"
+msgid "Verwerken"
 msgstr ""
 
-msgid "Is this your address?"
+msgid "Is dit uw adres?"
 msgstr ""
 
-msgid "Address Detected:"
+msgid "Adres Gedetecteerd:"
 msgstr ""
 
-msgid "Yes"
+msgid "Ja"
 msgstr ""
 
-msgid "No"
+msgid "Nee"
 msgstr ""
 
-msgid "Invalid Email Address"
+msgid "Ongeldig Email Adres"
 msgstr ""
 
-msgid "Specified address appears invalid."
+msgid "Gespecifieerd adres blijkt ongeldig."
 msgstr ""
 
 msgid "Success"
 msgstr ""
 
-msgid "Email address stored."
+msgid "Email adres bewaard."
 msgstr ""
 
 msgid "Ok"
