@@ -155,31 +155,31 @@ msgstr ""
 
 #: pages/admin/config/email.phtml:11
 msgid ""
-"<strong>Currently only gmail is supported</strong></br>\n"
-"\t\t<i>An email address is required for sending customer receipts, receiving "
-"transaction logs and sending\n"
-"\t\ttransaction errors that need to be resolved manually.</i>\n"
+"<strong>Monenteel wordt enkel gmail ondersteund</strong></br>\n"
+"\t\t<i>Een email adres is vereist voor het verzenden van een recu, ontvangen "
+"transactie logs and en verzenden\n"
+"\t\ttransactie errors die manueel dienen te worden opgelost.</i>\n"
 "\t\t"
 msgstr ""
 
 #: pages/admin/config/email.phtml:16 pages/error.phtml:21
-msgid "Email Address"
+msgid "Email Adres"
 msgstr ""
 
 #: pages/admin/config/email.phtml:17
-msgid "Email Password"
+msgid "Email Wachtwoord"
 msgstr ""
 
 #: pages/admin/config/email.phtml:19 pages/admin/config/email.phtml:22
-msgid "Machine Name"
+msgid "Toestel Naam"
 msgstr ""
 
 #: pages/admin/config/email.phtml:20
-msgid "Name your machine (a unique Machine Name is recommended)"
+msgid "Benoem uw toestel (een unieke toestel naam is aangeraden)"
 msgstr ""
 
 #: pages/admin/config/wallet.phtml:8
-msgid "Blockchain Configuration"
+msgid "Blockchain Configuratie"
 msgstr ""
 
 #: pages/admin/config/wallet.phtml:10
@@ -187,23 +187,23 @@ msgid "Blockchain ID (GUID)"
 msgstr ""
 
 #: pages/admin/config/wallet.phtml:11
-msgid "Blockchain Password"
+msgid "Blockchain Wachtwoord"
 msgstr ""
 
 #: pages/admin/config/wallet.phtml:12
-msgid "Secondary Password (optional)"
+msgid "Secundair Wachtwoord (optioneel)"
 msgstr ""
 
 #: pages/admin/config/wallet.phtml:13
-msgid "Sending Bitcoin Address"
+msgid "Verzend Bitcoin Adres"
 msgstr ""
 
 #: pages/admin/config/commands.phtml:7
-msgid "Restart Machine"
+msgid "Herstart Toestel"
 msgstr ""
 
 #: pages/admin/config/commands.phtml:13
-msgid "Restart Services"
+msgid "Herstart Diensten"
 msgstr ""
 
 #: pages/admin/config/commands.phtml:20
@@ -211,22 +211,22 @@ msgid "Crash Browser"
 msgstr ""
 
 #: pages/admin/config/contact.phtml:13
-msgid "Contact Settings"
+msgid "Contact Instellingen"
 msgstr ""
 
 #: pages/admin/config/contact.phtml:16
 msgid ""
-"When a price cannot be acquired a page will render with this information on "
-"it. Most of the time this will likely be a network issue."
+"Wanneer een prijs niet kan worden verkregen, word een pagina getoond met deze informatoe "
+"op. Meestal duid dit op een netwerk probleem."
 msgstr ""
 
 #: pages/admin/config/contact.phtml:19
-msgid "This is the rough equivalent of an 'out of order' sign."
+msgid "Dit is het ruwe equivalent van een 'Buiten dienst' singalisatie."
 msgstr ""
 
 #: pages/admin/config/contact.phtml:22
 msgid ""
-"Example:</br>\n"
+"Voorbeeld:</br>\n"
 "\t<i></br>\n"
 "\tPROJECT SKYHOOK</br>\n"
 "\tsupport@projectskyhook.com</br>\n"
@@ -236,98 +236,98 @@ msgid ""
 msgstr ""
 
 #: pages/admin/config/pricing.phtml:76
-msgid "Pricing Settings"
+msgid "Prijs Instellingen"
 msgstr ""
 
 #: pages/admin/config/pricing.phtml:82
-msgid "Select pricing method:"
+msgid "Selecteer de prijs methode:"
 msgstr ""
 
 #: pages/admin/config/pricing.phtml:97
-msgid "Single"
+msgid "Enkel"
 msgstr ""
 
 #: pages/admin/config/pricing.phtml:110
-msgid "Highest"
+msgid "Hoogst"
 msgstr ""
 
 #: pages/admin/config/pricing.phtml:123
-msgid "Lowest"
+msgid "Laagst"
 msgstr ""
 
 #: pages/admin/config/pricing.phtml:127
 msgid ""
 "\n"
-"\t\t\t<strong>Single</strong> if you only wish to consult one price source."
+"\t\t\t<strong>Enkel</strong> Indien u enkel de prijs bron wilt consulteren."
 "<br>\n"
-"\t\t\t<strong>Lowest</strong>/<strong>Highest</strong> if you would like\n"
-"\t\t\tto consult multiple sources and select among them based on the\n"
-"\t\t\tchosen criteria.\n"
+"\t\t\t<strong>Laagst</strong>/<strong>Hoogst</strong> Indien u verschillende\n"
+"\t\t\tbronnen wenst te raadplegen en te selecteren gebaseerd op de\n"
+"\t\t\tgekozen criteria.\n"
 "\t\t\t"
 msgstr ""
 
 #: pages/admin/config/pricing.phtml:137
-msgid "Source:"
+msgid "Bron:"
 msgstr ""
 
 #: pages/admin/config/pricing.phtml:146
-msgid "Choose Source:"
+msgid "Kies Bron:"
 msgstr ""
 
 #: pages/admin/config/pricing.phtml:155
-msgid "Sources:"
+msgid "Bronnen:"
 msgstr ""
 
 #: pages/admin/config/pricing.phtml:165
-msgid "Choose Sources:"
+msgid "Kies Bronnen:"
 msgstr ""
 
 #: pages/admin/config/pricing.phtml:174
-msgid "Static Price:"
+msgid "Statische Prijs:"
 msgstr ""
 
 #: pages/admin/config/pricing.phtml:191
-msgid "Percentage Fee"
+msgid "Percentage toeslag"
 msgstr ""
 
 #: pages/admin/config/pricing.phtml:193
-msgid "Minimum Price"
+msgid "Minimum Prijs"
 msgstr ""
 
 #: pages/admin/config/send-log.phtml:4
-msgid "Retrieve Transaction Log (CSV format)"
+msgid "Verkrijg Transactie Log (CSV formaat)"
 msgstr ""
 
 #: pages/admin/config/send-log.phtml:9
-msgid "Send Hourly Transaction Log:"
+msgid "Zend uurlijks Transactie Log:"
 msgstr ""
 
 #: pages/admin/config/send-log.phtml:21
-msgid "Off"
+msgid "Uit"
 msgstr ""
 
 #: pages/admin/config/send-log.phtml:25
-msgid "Hourly"
+msgid "Uurlijks"
 msgstr ""
 
 #: pages/admin/config/send-log.phtml:30
-msgid "Send transaction log (delta)"
+msgid "Verzent transactie log (delta)"
 msgstr ""
 
 #: pages/admin/config/send-log.phtml:33
-msgid "Send complete transaction log"
+msgid "Verzend vollegig transactie log"
 msgstr ""
 
 #: pages/admin/saved.phtml:15
-msgid "Configuration saved"
+msgid "Configuratie bewaard"
 msgstr ""
 
 #: pages/admin/saved.phtml:18
-msgid "Redirecting to Start page in a few seconds..."
+msgid "Omleiding naar de Start pagina in een paar seconden..."
 msgstr ""
 
 #: pages/admin/saved.phtml:25
-msgid "Start Page"
+msgid "Start Pagina"
 msgstr ""
 
 #: pages/purchase.phtml:20 pages/account.phtml:18 pages/start.phtml:12
@@ -335,15 +335,15 @@ msgid "bitcoin"
 msgstr "bitcoin"
 
 #: pages/purchase.phtml:24
-msgid "insert bills"
+msgid "voer biljetten in"
 msgstr ""
 
 #: pages/purchase.phtml:27
-msgid "bitcoins will be sent to:"
+msgid "bitcoins zullen verzonden worden naar:"
 msgstr ""
 
 #: pages/purchase.phtml:32
-msgid "Do Not Insert Bills Larger than"
+msgid "Voer geen biljetten groter dan "
 msgstr ""
 
 #: pages/purchase.phtml:35 pages/receipt.phtml:23
@@ -352,7 +352,7 @@ msgid "BTC"
 msgstr ""
 
 #: pages/purchase.phtml:39
-msgid "buy bitcoins"
+msgid "Koop bitcoins"
 msgstr ""
 
 #: pages/account.phtml:19 pages/start.phtml:13
@@ -360,35 +360,35 @@ msgid "..."
 msgstr ""
 
 #: pages/receipt.phtml:17
-msgid "transaction complete"
+msgid "transactie voltdooit"
 msgstr ""
 
 #: pages/receipt.phtml:20
-msgid "Bitcoin Address:"
+msgid "Bitcoin Adres:"
 msgstr ""
 
 #: pages/receipt.phtml:22
-msgid "has been sent:"
+msgid "is verzonden:"
 msgstr ""
 
 #: pages/receipt.phtml:24
-msgid "for the price of:"
+msgid "voor de prijs van:"
 msgstr ""
 
 #: pages/receipt.phtml:39
-msgid "email me a receipt"
+msgid "email me een recu"
 msgstr ""
 
 #: pages/receipt.phtml:43
-msgid "Invalid Email"
+msgid "Ongeldig Email"
 msgstr ""
 
 #: pages/receipt.phtml:49
-msgid "Email Sent"
+msgid "Email Verzonden"
 msgstr ""
 
 #: pages/receipt.phtml:55
-msgid "done"
+msgid "klaar"
 msgstr ""
 
 #: pages/emails/purchase-error.phtml:3
@@ -397,11 +397,11 @@ msgid "Ticket #"
 msgstr ""
 
 #: pages/emails/purchase-error.phtml:5
-msgid "encountered an error while processing this transaction."
+msgid "er trad een fout op bij het verwerken van deze transactie."
 msgstr ""
 
 #: pages/emails/purchase-error.phtml:6
-msgid "Please see the attached error log for more details."
+msgid "Bekijk a.u.b. het bijgevoegd transactie log."
 msgstr ""
 
 #: pages/emails/purchase-error.phtml:12
@@ -409,27 +409,27 @@ msgid "Ticket ID:"
 msgstr ""
 
 #: pages/emails/purchase-error.phtml:20
-msgid "Purchase Time (in UTC):"
+msgid "Tijdstip van Aankoop (in UTC):"
 msgstr ""
 
 #: pages/emails/purchase-error.phtml:28
-msgid "Customer's Bitcoin Address:"
+msgid "Bitcoin Adres van de klant:"
 msgstr ""
 
 #: pages/emails/purchase-error.phtml:36
-msgid "Currency Inserted"
+msgid "Ingevoerde munteenheid"
 msgstr ""
 
 #: pages/emails/purchase-error.phtml:48
-msgid "Bitcoin Price:"
+msgid "Bitcoin Prijs:"
 msgstr ""
 
 #: pages/emails/purchase-error.phtml:60
-msgid "Bitcoin Purchased:"
+msgid "Bitcoin Aangekocht:"
 msgstr ""
 
 #: pages/emails/purchase-error.phtml:68
-msgid "Transaction ID:"
+msgid "Transactie ID:"
 msgstr ""
 
 #: pages/emails/purchase-error.phtml:76
@@ -437,15 +437,15 @@ msgid "Ticket Status:"
 msgstr ""
 
 #: pages/emails/purchase-error.phtml:84
-msgid "Ticket Finalized (in UTC):"
+msgid "Ticket Beeindigd(in UTC):"
 msgstr ""
 
 #: pages/emails/purchase-error.phtml:94
-msgid "Blockchain.info Transaction Message:"
+msgid "Blockchain.info Transactie Bericht:"
 msgstr ""
 
 #: pages/emails/purchase-error.phtml:102
-msgid "Transaction Notice:"
+msgid "Transactie Opmerking:"
 msgstr ""
 
 #: pages/emails/receipt.phtml:2
@@ -455,33 +455,33 @@ msgid ""
 msgstr ""
 
 #: pages/emails/receipt.phtml:7
-msgid "Transaction Number:"
+msgid "Transactie Nummer:"
 msgstr ""
 
 #: pages/emails/receipt.phtml:15
-msgid "Date:"
+msgid "Datum:"
 msgstr ""
 
 #: pages/emails/receipt.phtml:23
-msgid "Transaction Value:"
+msgid "Transactie Waarde:"
 msgstr ""
 
 #: pages/emails/receipt.phtml:31
-msgid "Bitcoin Amount:"
+msgid "Bitcoin Hoeveelheid:"
 msgstr ""
 
 #: pages/emails/receipt.phtml:39
-msgid "Transaction Link:"
+msgid "Transactie Link:"
 msgstr ""
 
 #: pages/emails/receipt.phtml:49
 msgid ""
-"Project Skyhook is an open-source, community powered project and you can "
-"help. \n"
-"Have a comment or suggestion that can help us improve your user experience?\n"
-"Visit us at <a href=\"http://projectskyhook.com/feedback\">\n"
+"Project Skyhook is een open-source, community gebaseerd project en u kan "
+"helpen . \n"
+"Hebt u commentaar of een idee dat uw gebruikers ervaring kan verbeteren?\n"
+"Visit ons op <a href=\"http://projectskyhook.com/feedback\">\n"
 "\t\thttp://projectskyhook.com/feedback\n"
-"\t</a> and contact us!"
+"\t</a> en contacteer ons!"
 msgstr ""
 
 #: pages/emails/purchase-error-email-provided.phtml:5
