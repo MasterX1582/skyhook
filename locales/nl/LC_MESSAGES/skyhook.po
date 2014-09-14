@@ -486,128 +486,128 @@ msgstr ""
 
 #: pages/emails/purchase-error-email-provided.phtml:5
 msgid ""
-"was updated with an email address. Use this address to notify the customer "
-"as the transaction error is resolved."
+"werd geupdate met een email adres. Gebruik dit adres om te klant op de hoogte te stellen "
+"wanneer het transactie probleem is opgelost."
 msgstr ""
 
 #: pages/emails/purchase-error-email-provided.phtml:8
 msgid ""
-"<strong>Note:</strong> This Skyhook machine does not automatically notify "
-"the customer of status changes."
+"<strong>Note:</strong> Deze Skyhook machine brengt de klant niet automatchsch op de hoogte "
+"van status weizigingen."
 msgstr ""
 
 #: pages/emails/purchase-error-email-provided.phtml:11
-msgid "Customer's Email Address:"
+msgid "Email Adres van de klant:"
 msgstr ""
 
 #: pages/emails/purchase-error-email-provided.phtml:15
-msgid "Error information reproduced below - technical information attached"
+msgid "Error informatie hergeproduceerd onderaan - technische informatie toegevoegd"
 msgstr ""
 
 #: pages/error.phtml:19
-msgid "A trans&shy;act&shy;ion error has occured"
+msgid "Er deed zich een transactie fout voor"
 msgstr ""
 
 #: pages/error.phtml:26
-msgid "notify me"
+msgid "notifieer me"
 msgstr ""
 
 #: pages/error.phtml:29
-msgid "no thanks"
+msgid "neen bedankt"
 msgstr ""
 
 #: pages/error.phtml:33
 msgid ""
-"This transaction has been logged and the operator notified for manual "
-"processing."
+"Dzze transactie werd gelogd en de operator op de hoogte gesteld voor manueele "
+"behandeling."
 msgstr ""
 
 #: pages/error.phtml:36
 msgid ""
-"Please enter your email address so that the operator may notify you when "
-"this issue is resolved."
+"Voer a.u.b uw email adres in zodat de beheerder u op de hoogte kan stellen wanneer  "
+"het probleem werd opgelost."
 msgstr ""
 
 #: pages/head.phtml:37
-msgid "Network Unreachable"
+msgid "Network Onberijkbaar"
 msgstr ""
 
 #: pages/head.phtml:38
-msgid "If the problem persists, please contact the operator."
+msgid "Indien dit probleem aanhoud, contcteer a.u.b de beheerder."
 msgstr ""
 
 #: includes/CSVMailer.php:25 includes/HeartBeatMailer.php:12
-msgid ": Transaction Log"
+msgid ": Transactie Log"
 msgstr ""
 
 #: includes/CSVMailer.php:28
-msgid "See attached for transaction log."
+msgid "Bekijk de bijlage voor de transactie log."
 msgstr ""
 
 #: includes/HeartBeatMailer.php:15
-msgid "There have been no transactions since the last email."
+msgid "Er waren geen transacties sinds de laatste email."
 msgstr ""
 
 #: includes/ConfigValidator.php:17
-msgid "A choice must be made between Single\\Highest\\Lowest"
+msgid "een keuze dient te worden gemaakt tussen Enkel\\Hoogst\\Laagst"
 msgstr ""
 
 #: includes/ConfigValidator.php:24
-msgid "If Single is chosen, exactly 1 pricing source must be chosen."
+msgid "Endien er voor Enkel is gekozen, exact 1 prijs bron dient te worden gekozen."
 msgstr ""
 
 #: includes/ConfigValidator.php:31
-msgid "At least one pricing source must be chosen."
+msgid "Ten minste 1 prijs bron dient te worden gekozen."
 msgstr ""
 
 #: includes/ConfigValidator.php:43
-msgid "Unrecognized pricing source:"
+msgid "Onherkende prijsbron:"
 msgstr ""
 
 #: includes/ConfigValidator.php:52
-msgid "When using static price a value is required."
+msgid "Wanneer een statische prijs word gebruikt dient er een waarde te worden ingegeven."
 msgstr ""
 
 #: includes/ConfigValidator.php:57
-msgid "Static price value must be numeric."
+msgid "Statische prijs waarde dient numeriek te zijn."
 msgstr ""
 
 #: includes/ConfigValidator.php:69
-msgid "Unrecognized pricing modifier:"
+msgid "Onherkende prijswijziging:"
 msgstr ""
 
 #: includes/ConfigValidator.php:75
-msgid "Value must be numeric for:"
+msgid "Waarde dient nummeriek te zijn voor:"
 msgstr ""
 
 #: includes/ConfigValidator.php:88
-msgid "A valid Blockchain.info wallet id is required."
+msgid "Een geldige Blockchain.info wallet id is vereist."
 msgstr ""
 
 #: includes/ConfigValidator.php:95
-msgid "Your respective Blockchain.info password is required."
+msgid "Uw respectief Blockchain.info wachtwoord is vereist."
 msgstr ""
 
 #: includes/ConfigValidator.php:102
 msgid ""
-"An address controlled by your Blockchain.info wallet is required to send "
+"Een adres beheerd in uw Blockchain.info wallet is vereist om te verzenden "
 "from."
 msgstr ""
 
 #: includes/ConfigValidator.php:107
-msgid "A valid Bitcoin address is required."
+msgid "Een geldig Bitcoin adres is vereist."
 msgstr ""
 
 #: includes/ConfigValidator.php:117
-msgid "A valid email address is required."
+msgid "Een geldig email adres is vereist."
 msgstr ""
 
 #: includes/ConfigValidator.php:122
-msgid "Email address entered is not valid."
+msgid "Email adres ingevoerd is niet geldig."
 msgstr ""
 
 #: includes/ConfigValidator.php:129
-msgid "Email password is required."
+msgid "Email wachtwoord is vereist."
 msgstr ""
 
 #: includes/ConfigValidator.php:138
@@ -615,20 +615,20 @@ msgid "Minimum password length is 5 characters."
 msgstr ""
 
 #: includes/ConfigValidator.php:145
-msgid "Admin passwords must match"
+msgid "Admin wachtwoorden moeten gelijk zijn"
 msgstr ""
 
 #: includes/ConfigValidator.php:155
-msgid "Maximum transaction value must be a positive integer."
+msgid "Maximum transactie waarde moet een possitief integer zijn."
 msgstr ""
 
 #: includes/ConfigVerifier.php:14
-msgid "Unknown format encountered:"
+msgid "Ongekend formaat ondervonden:"
 msgstr ""
 
 #: includes/ConfigVerifier.php:29
-msgid "Unknown format encountered when attempmting to retreive balance:"
+msgid "Ongekend formaat ondervonden bij het opvragen van het saldo:"
 msgstr ""
 
-msgid "Device Commands"
+msgid "Toestel Commandos"
 msgstr ""
